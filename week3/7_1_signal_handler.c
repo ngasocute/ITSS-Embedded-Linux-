@@ -1,9 +1,4 @@
-/*
-* @Author: Nam
-* @Date:   2018-05-15 01:14:33
-* @Last Modified by:   Nam
-* @Last Modified time: 2018-05-15 01:16:22
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
